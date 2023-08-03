@@ -2,6 +2,9 @@ this is one
 
 
 this is update in previous feature
+<<<<<<< HEAD
 
-
+Line4>> Added few more changes to make it more optimized.
 this is completed
+=======
+>>>>>>> 312121c... Added feature2.2 in development branch
